@@ -11,9 +11,9 @@ This course originated as a livestream on LinkedIn, so the exercise files are or
 
 For reference:
 
-- `day-02` = Chapter 2
-- `day-03` = Chapter 3
-- `day-05` = Chapter 5
+- `day-02/` = Chapter 2
+- `day-03/` = Chapter 3
+- `day-05/` = Chapter 5
 
 ## Installing
 1. To use these exercise files, you must have the following installed:

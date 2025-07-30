@@ -26,13 +26,13 @@ For reference:
 
 ## Instructor
 
-Instructor name
+Morten Rand-Hendriksen
 
-Instructor description
+Principal Staff Instructor, Speaker, Web Designer, and Software Developer
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/morten-rand-hendriksen?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)

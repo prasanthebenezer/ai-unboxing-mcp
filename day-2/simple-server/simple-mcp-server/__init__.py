@@ -1,1 +1,0 @@
-# Simple MCP Server package

@@ -24,7 +24,7 @@ This MCP server interfaces with the [Open-Meteo API](https://open-meteo.com/en/d
 
 In terminal:
 ```bash
-uv sync
+uv sync # installs all the dependencies from pyproject.toml
 ```
 ### 2. Start the virtual environment
 
